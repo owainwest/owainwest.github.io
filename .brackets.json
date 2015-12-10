@@ -1,0 +1,6 @@
+{
+    "brackets-latex.texBinDirectory": "C:\\Program Files (x86)\\MiKTeX 2.9\\miktex\\bin\\latexmk.exe",
+    "brackets-latex.outputDirectory": "out",
+    "brackets-latex.compiler": "pdflatex",
+    "brackets-latex.mainFile": null
+}
