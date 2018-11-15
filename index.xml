@@ -11,14 +11,28 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Music: 10/18</title>
-      <link>https://owainwest.me/post/music-1018/</link>
+      <title>Monthly music</title>
+      <link>https://owainwest.me/post/monthly-music/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://owainwest.me/post/music-1018/</guid>
-      <description>&lt;p&gt;Highly recommend &lt;a href=&#34;http://www.bigthief.net/&#34; target=&#34;_blank&#34;&gt;Big Thief&lt;/a&gt;, &lt;a href=&#34;https://www.bedouinemusic.com/about&#34; target=&#34;_blank&#34;&gt;Bedouine&lt;/a&gt;, &lt;a href=&#34;https://stefchuraband.bandcamp.com/&#34; target=&#34;_blank&#34;&gt;Stef Chura&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://owainwest.me/post/monthly-music/</guid>
+      <description>
+
+&lt;h2 id=&#34;nov-2018&#34;&gt;Nov 2018&lt;/h2&gt;
+
+&lt;iframe src=&#34;https://open.spotify.com/embed/track/0Pbscg9OvoaqlGZln2dkNt&#34; width=&#34;300&#34; height=&#34;380&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;oct-2018&#34;&gt;Oct 2018&lt;/h2&gt;
+
+&lt;p&gt;Highly recommend &lt;a href=&#34;http://www.bigthief.net/&#34; target=&#34;_blank&#34;&gt;Big Thief&lt;/a&gt;, &lt;a href=&#34;https://www.bedouinemusic.com/about&#34; target=&#34;_blank&#34;&gt;Bedouine&lt;/a&gt;, &lt;a href=&#34;https://stefchuraband.bandcamp.com/&#34; target=&#34;_blank&#34;&gt;Stef Chura&lt;/a&gt;.&lt;/p&gt;
 
 &lt;iframe src=&#34;https://open.spotify.com/embed/user/owainwest/playlist/0eE3wX8kW9M3Vgrn3UHCK8&#34; width=&#34;300&#34; height=&#34;380&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;sept-2018&#34;&gt;Sept 2018&lt;/h2&gt;
+
+&lt;p&gt;Highly recommend &lt;a href=&#34;https://www.google.com/search?q=pip+blom&amp;amp;oq=pip+blom&amp;amp;aqs=chrome..69i57j0l5.1769j0j1&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8&#34; target=&#34;_blank&#34;&gt;Pip Blom&lt;/a&gt;, &lt;a href=&#34;https://remembersports.bandcamp.com/&#34; target=&#34;_blank&#34;&gt;Remember Sports&lt;/a&gt;, &lt;a href=&#34;https://jomcomyn.bandcamp.com/&#34; target=&#34;_blank&#34;&gt;Jom Comyn&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe src=&#34;https://open.spotify.com/embed/user/owainwest/playlist/3tD8WfmJVs5p7t6HklJqSB&#34; width=&#34;310&#34; height=&#34;390&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     
@@ -91,18 +105,6 @@
       
       <guid>https://owainwest.me/project/example-external-project/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Music: 09/18</title>
-      <link>https://owainwest.me/post/music-0918/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://owainwest.me/post/music-0918/</guid>
-      <description>&lt;p&gt;Highly recommend &lt;a href=&#34;https://www.google.com/search?q=pip+blom&amp;amp;oq=pip+blom&amp;amp;aqs=chrome..69i57j0l5.1769j0j1&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8&#34; target=&#34;_blank&#34;&gt;Pip Blom&lt;/a&gt;, &lt;a href=&#34;https://remembersports.bandcamp.com/&#34; target=&#34;_blank&#34;&gt;Remember Sports&lt;/a&gt;, &lt;a href=&#34;https://jomcomyn.bandcamp.com/&#34; target=&#34;_blank&#34;&gt;Jom Comyn&lt;/a&gt;.&lt;/p&gt;
-
-&lt;iframe src=&#34;https://open.spotify.com/embed/user/owainwest/playlist/3tD8WfmJVs5p7t6HklJqSB&#34; width=&#34;310&#34; height=&#34;390&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
-</description>
     </item>
     
     <item>
